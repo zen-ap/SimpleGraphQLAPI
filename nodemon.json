@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "admin",
+        "MONGO_PASSWORD": "0lXBIC93PAH1fJKw",
+        "MONGO_DB": "SimpleGraphQLAPI"
+    }
+}
